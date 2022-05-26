@@ -1,6 +1,6 @@
-import React, { useState } from "react";
-import Child from "./Child";
-import CountContext from "./context";
+import React, { useState } from 'react';
+import Child from './Child';
+import CountContext from './context';
 
 const App = () => {
   const [count, setCount] = useState(0);
@@ -18,3 +18,4 @@ const App = () => {
 };
 
 export default App;
+td;
